@@ -1,3 +1,0 @@
-tempe 2
-
-mengubah isi file_2.txt
